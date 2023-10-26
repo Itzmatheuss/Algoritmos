@@ -1,3 +1,4 @@
 # Estruturas sequenciais
-#Estruturas Condicionais
+# Estruturas Condicionais
+ 
  Algoritmos em Python
