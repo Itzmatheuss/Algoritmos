@@ -1,2 +1,3 @@
-# Est_sequencial
+# Estruturas sequenciais
+#Estruturas Condicionais
  Algoritmos em Python
